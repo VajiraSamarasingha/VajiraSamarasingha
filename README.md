@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @VajiraSamarasingha
 - 👀 I’m interested in ...Programming
+- 👀 I'm Undergraduate in BICT(hon's) Software Technology in University Of Sri Jayewardenepura
 - 🌱 I’m currently learning ...Information Communication Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
